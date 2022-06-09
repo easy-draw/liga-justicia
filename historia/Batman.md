@@ -1,0 +1,10 @@
+##BATMAN
+
+Batman es un superhéroe de cómic co-creado por el artista Bob Kane y el escritor Bill Finger y publicado por DC Comics. 
+El personaje hizo su primera aparición en Detective Comics #27 (mayo de 1939). Batman es la identidad secreta de Bruce Wayne, 
+un empresario multimillonario, galán y filántropo. Presenció el asesinato de sus padres cuando era niño lo marcó profundamente 
+y lo llevó a entrenarse en la perfección física e intelectual para ponerse un disfraz de murciélago con el fin de combatir el crimen. 
+Batman trabaja en Ciudad Gótica, con la asistencia de varios personajes de apoyo, incluidos su compañero Robin y su mayordomo Alfred Pennyworth.
+
+A diferencia de la mayoría de los superhéroes, él no posee superpoderes, sino que hace uso de la inteligencia, habilidades de detective, 
+la ciencia y la tecnología, su riqueza, su fuerza física y la intimidación en su guerra contra el crimen.
